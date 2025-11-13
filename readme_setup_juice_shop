@@ -1,0 +1,21 @@
+## Setting up OWASP Juice Shop 
+
+-Created a folder named "ghost-protocol" on the Desktop.  
+
+-Navigated into the folder and cloned the OWASP Juice Shop repository using: git clone https://github.com/juice-shop/juice-shop.git  
+
+-Installed node.js and npm using: sudo apt install nodejs npm -y  
+
+-Verified Installations:  
+  node -v
+  npm -v  
+  
+-Entered the cloned Juice Shop directory: cd juice-shop  
+
+-Installed dependencies: npm install
+
+-Started the Juice Shop application: npm start 
+
+-Accessed the running instance in a browser at: http://localhost:3000  
+
+ 
