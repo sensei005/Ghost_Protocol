@@ -11,10 +11,3 @@
 - Certifications progress
 
 
-## Labs & Practice Environments
-
-- **OWASP Juice Shop** – Installed and configured vulnerable web app for hands-on web pentesting practice.
-  - Explored authentication, injection, and XSS vulnerabilities.
-  - Documented findings and mitigations in `OWASP/Labs/Juice_Shop/`.
-
-
