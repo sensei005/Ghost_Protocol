@@ -12,7 +12,9 @@
 
 ## Labs & Practice Environments
 
-### OWASP Juice Shop 
+#### OWASP Juice Shop 
+
+###### Recon
 
 – Installed and configured vulnerable web app for hands-on web pentesting practice.
 - run nmap scan on lab ip on port:3000 and uploaded the output 'nmap_recon.txt' in 'recon_juice_shop'
