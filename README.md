@@ -12,7 +12,9 @@
 
 ## Labs & Practice Environments
 
-- **OWASP Juice Shop** – Installed and configured vulnerable web app for hands-on web pentesting practice.
-- run nmap scan on lab ip on port:3000 and uploaded the output 'nmap_recon.txt' in 'Findings_juice_shop'
-- run ffuf (web fuzzing tool) to find hidden directories, endpoint, parameters using common wordlists by replacing 'FUZZ' and saved the output in 'ffuf_output.json' and uploaded in 'Findings_juice_shop': ffuf -u http://10.177.66.159/FUZZ -w /usr/share/wordlists/dirb/common.txt -o ffuf_output.json
+### OWASP Juice Shop 
+
+– Installed and configured vulnerable web app for hands-on web pentesting practice.
+- run nmap scan on lab ip on port:3000 and uploaded the output 'nmap_recon.txt' in 'recon_juice_shop'
+- run ffuf (web fuzzing tool) to find hidden directories, endpoint, parameters using common wordlists by replacing 'FUZZ' and saved the output in 'ffuf_output.json' and uploaded in 'recon_juice_shop': ffuf -u http://10.177.66.159/FUZZ -w /usr/share/wordlists/dirb/common.txt -o ffuf_output.json
 
